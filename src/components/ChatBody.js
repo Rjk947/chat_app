@@ -1,8 +1,10 @@
 import React from 'react'
+import './chatBody.css';
 
 const ChatBody = () => {
     return (
-        <div>
+        <div className='chat_body'>
+
             
         </div>
     )

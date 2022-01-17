@@ -1,8 +1,13 @@
-import React from 'react'
+import React from 'react';
+import "./Settings.css";
+
 
 const Setting = () => {
     return (
-        <div>
+        <div className='settings'>
+           
+            <div className='setting_blocks'></div>
+            <div className='setting_blocks'></div>
             
         </div>
     )
